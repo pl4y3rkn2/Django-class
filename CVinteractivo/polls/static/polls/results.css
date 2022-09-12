@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    padding: 50px;
+    padding-top: 100px;
+
+    height: 60px;
+    font-size: 62px;   
+    color: #71632d;
+}
+
+main a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    font-size: 20px;
+}
